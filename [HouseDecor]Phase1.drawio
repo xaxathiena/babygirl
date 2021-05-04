@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T06:39:44.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="y50VYQ5C_tBMd3qsZ7fx" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T06:41:30.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="fEMbkCrh3qMJaRbubkzR" version="14.6.6" type="github">
   <diagram id="-zu1wHsi5U8wWwYV3vUu" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,10 +437,10 @@
         <mxCell id="mcrXQ96OxGp_LheOPers-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mcrXQ96OxGp_LheOPers-3" target="mcrXQ96OxGp_LheOPers-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-3" value="Choice house model" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-3" value="Choice house model" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="689" y="-210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-4" value="Download house model" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-4" value="Download house model" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="886" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcrXQ96OxGp_LheOPers-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcrXQ96OxGp_LheOPers-7" target="mcrXQ96OxGp_LheOPers-11">
@@ -454,16 +454,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-7" value="Download config&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-7" value="Download config&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="886" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcrXQ96OxGp_LheOPers-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcrXQ96OxGp_LheOPers-11" target="mcrXQ96OxGp_LheOPers-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-11" value="Read objects config" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-11" value="Read objects config" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1110" y="-100" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-13" value="Read room config" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-13" value="Read room config" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1080" y="-20" width="154" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcrXQ96OxGp_LheOPers-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcrXQ96OxGp_LheOPers-15" target="mcrXQ96OxGp_LheOPers-17">
@@ -482,16 +482,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-15" value="Download object" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-15" value="Download object" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1337" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-17" value="Setting Trans" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-17" value="Setting Trans" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1530" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcrXQ96OxGp_LheOPers-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcrXQ96OxGp_LheOPers-19" target="mcrXQ96OxGp_LheOPers-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-19" value="Read config skin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-19" value="Read config skin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1500" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mcrXQ96OxGp_LheOPers-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mcrXQ96OxGp_LheOPers-23" target="mcrXQ96OxGp_LheOPers-25">
@@ -505,13 +505,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-23" value="Download skin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-23" value="Download skin" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1700" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-25" value="Load default skin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-25" value="Load default skin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1900" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-27" value="Load rest of skins" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-27" value="Load rest of skins" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1930" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
