@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T06:50:02.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="ip4hYVCgcEF6ZmzFIhdC" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T06:50:15.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dXUPuIRf7V7K39dk4RSw" version="14.6.6" type="github">
   <diagram id="-zu1wHsi5U8wWwYV3vUu" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,10 +525,10 @@
         <mxCell id="mcrXQ96OxGp_LheOPers-27" value="Load rest of skins" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1930" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-29" value="Add ObjectControl" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-29" value="Add ObjectControl" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mcrXQ96OxGp_LheOPers-31" value="Add HouseControl" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="mcrXQ96OxGp_LheOPers-31" value="Add HouseControl" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1144" y="-200" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
